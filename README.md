@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpoaHdhMGV6ajVmeXF4cTY3d3p3dWJtenQ0YTM2czNzN2VtcTl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" alt="Pixel Art" width="500" />
-</div>
+
 
 <div align="center">
   <h3>『闇の中でコードを書く、影から世界を支配する』</h3>
